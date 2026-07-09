@@ -375,6 +375,8 @@ that have *awesome* documentation.
 [developer.github.com](https://developer.github.com/) 
 + Twitter:
 [developer.twitter.com](https://developer.twitter.com/en/docs)
++ Xquik:
+[docs.xquik.com/api-reference/overview](https://docs.xquik.com/api-reference/overview)
 + Google:
 [developers.google.com/custom-search](https://developers.google.com/custom-search/v1/using_rest)
 + Stripe:
